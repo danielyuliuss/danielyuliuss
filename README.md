@@ -1,3 +1,4 @@
+#Sabar masih magang hahaha
 ### Hi there 👋
 
 <p align="left">
