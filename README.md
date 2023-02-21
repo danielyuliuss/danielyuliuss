@@ -1,4 +1,4 @@
-# Sabar masih magang hahaha 
+# Sabar masih magang pakai VCS hahaha 
 ### Hi there 👋
 
 <p align="left">
