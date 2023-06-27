@@ -1,6 +1,3 @@
-# Sabar masih magang pakai VCS hahaha 
-### Hi there 👋
-
 <p align="left">
 <a href="https://github.com/danielyuliuss">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=danielyuliuss&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
