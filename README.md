@@ -1,8 +1,8 @@
+[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
 <p align="left">
 <a href="https://github.com/danielyuliuss">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=danielyuliuss&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=danielyuliuss&layout=compact&langs_count=8&theme=radical"/>
-  [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
 </a>
 </p>
 <!-->
