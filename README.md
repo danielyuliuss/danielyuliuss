@@ -5,6 +5,7 @@ Framework
 [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
 
 Package Manager
 [![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff)](#)
@@ -22,7 +23,6 @@ Programming Language
 [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)
 
 
-[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
 
 
 [![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)](#)
