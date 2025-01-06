@@ -46,6 +46,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#)
 [![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)](#)
 
+![visitors](https://vbr.nathanchung.dev/badge?page_id=danielyuliuss.danielyuliuss&color=00cf00)
 
 <p align="left">
 <a href="https://github.com/danielyuliuss">
