@@ -48,6 +48,9 @@
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=danielyuliuss.danielyuliuss&color=00cf00)
 
+![Visitor Count](https://profile-counter.glitch.me/{danielyuliuss}/count.svg)
+
+
 <p align="left">
 <a href="https://github.com/danielyuliuss">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=danielyuliuss&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
