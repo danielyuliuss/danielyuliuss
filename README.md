@@ -36,10 +36,6 @@
 [![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff)](#)
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)
 
-## Game Development
-[![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff)](#)
-[![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
-
 ## Social Media
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/daniel.yuliuss/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/daniel-yulius-s-4bb22417a/)
